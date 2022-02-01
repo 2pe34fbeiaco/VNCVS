@@ -1,7 +1,7 @@
 services:
     ubuntu:
         public: true
-        container_name: shakugan
+        container_name: saduk
         image: imlala/ubuntu-xfce-vnc-novnc:latest
         ports:
             - 6080:6080
