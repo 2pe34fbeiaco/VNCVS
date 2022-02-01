@@ -1,5 +1,5 @@
 services:
-    ubuntu:
+    ubuntu1:
         public: true
         container_name: saduk
         image: consol/ubuntu-icewm-vnc:latest
